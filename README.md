@@ -37,7 +37,7 @@ Preprocessing steps include:
 - Model performance was evaluated on MAE, RMSE, R2 statistic
 - XGBoost performed the best in all metrics in comparison to all other models.
 
-(See `report.pdf` for full analysis and plots.)
+(See `FPL-Project.pdf` for full analysis and plots.)
 
 ---
 
